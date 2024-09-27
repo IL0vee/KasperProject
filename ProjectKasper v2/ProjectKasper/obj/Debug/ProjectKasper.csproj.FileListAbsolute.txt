@@ -1,0 +1,52 @@
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.exe.config
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.exe
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.pdb
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csprojAssemblyReference.cache
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Registration.resources
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Properties.Resources.resources
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csproj.GenerateResource.cache
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csproj.CoreCompileInputs.cache
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.exe
+C:\Users\ILove\source\repos\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.pdb
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.exe.config
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.exe
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\ProjectKasper.pdb
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Registration.resources
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Properties.Resources.resources
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csproj.GenerateResource.cache
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csproj.CoreCompileInputs.cache
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.exe
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.pdb
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\EntityFramework.dll
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\EntityFramework.SqlServer.dll
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\System.Data.SQLite.dll
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\EntityFramework.xml
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\EntityFramework.SqlServer.xml
+E:\Проект\Project\ProjectKasper\ProjectKasper\bin\Debug\System.Data.SQLite.xml
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Tables.resources
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.Requests.resources
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectKasper.csproj.AssemblyReference.cache
+E:\Проект\Project\ProjectKasper\ProjectKasper\obj\Debug\ProjectK.F7B6BFCA.Up2Date
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\ProjectKasper.exe.config
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\ProjectKasper.exe
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\ProjectKasper.pdb
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\EntityFramework.dll
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\EntityFramework.SqlServer.dll
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\System.Data.SQLite.dll
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\EntityFramework.xml
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\EntityFramework.SqlServer.xml
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\bin\Debug\System.Data.SQLite.xml
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.csprojAssemblyReference.cache
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.Registration.resources
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.Properties.Resources.resources
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.Requests.resources
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.Tables.resources
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.csproj.GenerateResource.cache
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.csproj.CoreCompileInputs.cache
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.csproj.CopyComplete
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.exe
+E:\Проект\Project\ProjectKasper v2\ProjectKasper\obj\Debug\ProjectKasper.pdb
