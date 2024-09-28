@@ -143,7 +143,6 @@ namespace ProjectStart
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ВЫ офециально пошли нахйу");
 
         }
     }
