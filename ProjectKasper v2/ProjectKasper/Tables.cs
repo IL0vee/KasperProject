@@ -34,7 +34,6 @@ namespace ProjectKasper
         {
             ExitButtonTables.BackColor = Color.Blue;
             DialogResult result = MessageBox.Show("Вы уверены, что хотите выйти", "Подтверждение выхода", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            MessageBox.Show("ВЫ офециально пошли нахйу");
 
             if (result == DialogResult.Yes)
             {
